@@ -1,4 +1,4 @@
-Hi 👋 My name is Eugene Asiedu
+Hi 👋 My name is Eugene Ofori Asiedu
 ==============================
 
 I combine mobile engineering experience with growing DevOps skills to build scalable, automated infrastructure and efficient CI/CD workflows.
