@@ -8,7 +8,7 @@ I'm a Flutter engineer expanding into DevOps, focusing on cloud infrastructure, 
 
 * 🌍  I'm based in Germany
 * ✉️  You can contact me at [ugin.dev@gmail.com](mailto:ugin.dev@gmail.com)
-* 🧠  I'm currently learning DevOps skills across AWS, Azure, Kubernetes, Terraform, Ansible, and CI/CD automation, SonarQube, Prometheus, Grafana
+* 🧠  I'm currently working in DevOps with skills across AWS, Azure, Kubernetes, Terraform, Ansible, and CI/CD automation, SonarQube, Prometheus, Grafana
 * 👥  I'm looking to collaborate on DevOps projects | Flutter projects | Java projects
 
 ------------------------------------------------------------
